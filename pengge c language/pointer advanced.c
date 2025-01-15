@@ -212,7 +212,10 @@
 //int main()
 //{
 //	char* p = "abcdef";
+//	printf("strlen(p) = %d\n", strlen(p));
+//	printf("strlen(p + 1) = %d\n", strlen(p + 1));
 //	printf("strlen(&p) = %d\n", strlen(&p));
 //	printf("strlen(&p + 1) = %d\n", strlen(&p + 1));
 //	return 0;
 //}
+
