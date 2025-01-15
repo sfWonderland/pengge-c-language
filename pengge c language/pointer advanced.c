@@ -217,5 +217,5 @@
 //	printf("strlen(&p) = %d\n", strlen(&p));
 //	printf("strlen(&p + 1) = %d\n", strlen(&p + 1));
 //	return 0;
+>>>>>>>>> Temporary merge branch 2
 //}
-
